@@ -10,7 +10,6 @@ const Meals = () => {
 
       const meals = await response.json();
       setLoadedMeals(meals);
-      console.log(meals);
     }
 
     fetchMeals();
