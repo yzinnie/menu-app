@@ -1,7 +1,11 @@
----
-##### 초기 작업 중 ... 🛠
+server (backend)
+```
+cd backend
+npm start
+```
 
----
-
-
+Vite (frontend)
+```
+npm run dev
+```
 
